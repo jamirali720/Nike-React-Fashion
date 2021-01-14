@@ -29,3 +29,14 @@
     color:  #363958;
     font-weight: 700;
 }
+#animation img {
+    transition: width 2s, height 2s, ease-in-out 4s; 
+    overflow: hidden;
+}
+#animation img:hover {
+    transform: scale(1.5);
+   
+}
+#running-shoes-radius {
+    border-radius: 20px;
+}
