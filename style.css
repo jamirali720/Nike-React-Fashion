@@ -1,3 +1,31 @@
-h1 {
-    color: green;
+
+.my-header-color {
+    background-color: #f8f1f1;
+}
+.my-button-color {
+    background-color: #3746cb;
+    color: white;
+    border-radius: 8px;
+    padding: 14px 20px;
+
+}
+.my-price-color {
+    color: #fa804c;
+}
+.my-shoes-back-color {
+    background-color: #f1f1f1;
+}
+.my-image-radius {
+    border-radius: 16px;
+}
+.my-card-radius {
+    border-radius: 25px;
+}
+#icon-radius {
+    border-radius: 16px;
+}
+
+.heading-font-color {
+    color:  #363958;
+    font-weight: 700;
 }
