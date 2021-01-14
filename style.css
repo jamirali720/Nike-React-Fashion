@@ -7,6 +7,7 @@
     color: white;
     border-radius: 8px;
     padding: 14px 20px;
+    outline: none !important;
 
 }
 .my-price-color {
@@ -37,6 +38,4 @@
     transform: scale(1.5);
    
 }
-#running-shoes-radius {
-    border-radius: 20px;
-}
+
